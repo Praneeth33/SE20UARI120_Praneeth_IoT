@@ -1,2 +1,2 @@
-# SE20UARI120_Praneeth_IoT
-This repo contains the assignments of AI-IoT course.
+# SE20UARI120_Praneeth_IoT_Assignment-2
+This repo contains the assignment-2 of AI-IOT Course at Mahindra University
